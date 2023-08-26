@@ -1,4 +1,4 @@
-# Advanced Digital Systems Design
+# EE405 Advanced Digital Systems Design
 
 ### Duration and Location
 - Sep. 2022 - Dec. 2022 (2022 Fall)
@@ -9,4 +9,4 @@
 - Graded: A+ (1st out of 28 students)
 
 ### Description
-- Utilized FPGA board and System Verilog to design controller, DMA, pipelined SIMD processor, and GEMM accelerator
+- Used FPGA board and System Verilog to design controller, DMA, pipelined SIMD processor, and GEMM accelerator
